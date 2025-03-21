@@ -16,6 +16,23 @@ You can **customize** the system to fit your company's needs, whether it's adjus
    - **OPENAI_API_KEY**: Your OpenAI API key.
    - **TELEGRAM_BOT_TOKEN**: Your Telegram bot token.
 
+## Test Event ✅
+
+You can use this test event to check the integration:
+
+```json
+{
+  "body": {
+    "message": {
+      "chat": {
+        "id": 123456
+      },
+      "text": "Hello, bot!"
+    }
+  }
+}
+```
+
 ## Notes: 
 
 - **Function Timeout**: Increase the timeout to handle longer API calls if necessary.
