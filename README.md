@@ -27,7 +27,7 @@ You can use this test event to check the integration:
       "chat": {
         "id": 123456
       },
-      "text": "Hello, bot!"
+      "text": "Hello , but?!?!!?!"
     }
   }
 }
