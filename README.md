@@ -1,6 +1,6 @@
 # Telegram Chat - OpenAI API Integration
 
-This repository demonstrates how to integrate the OpenAI API with a Telegram bot for automated responses using AWS Lambda. It covers setup, deployment, and configuration.
+integrate the OpenAI API with a Telegram bot for automated responses using AWS Lambda. It covers setup, deployment, and configuration.
 
 You can **customize** the system to fit your company's needs, whether it's adjusting OpenAI responses, adding business logic, or workflows. Ensure you stay within **usage quotas** to avoid penalties or interruptions.
 
